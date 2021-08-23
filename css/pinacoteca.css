@@ -1,6 +1,6 @@
 .header-pinacoteca {
   background-image: url(/assets/images/banner.png);
-  background-size: 100%;
+  background-size: cover;
   min-height: 40%;
   overflow: auto;
   background-position: center center;
