@@ -23,3 +23,10 @@
 .pinacoteca-titulo {
   border-bottom: 4px solid rgb(221, 167, 19);
 }
+.nav {
+  background-color: transparent !important;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+}
