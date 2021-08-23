@@ -1,0 +1,25 @@
+.header-pinacoteca {
+  background-image: url(/assets/images/banner.png);
+  height: 350px;
+  background-attachment: fixed;
+  background-position: right 0 bottom 2em;
+  background-size: cover;
+}
+.header-pinacoteca #mainNav {
+  background-color: rgba(34, 39, 70, 0.5) !important;
+}
+
+.card-pinacoteca .nav-link {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  border-bottom: 4px solid rgb(221, 167, 19);
+  text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.5);
+}
+
+.filtered-sepia {
+  filter: sepia(100%);
+}
+
+.pinacoteca-titulo {
+  border-bottom: 4px solid rgb(221, 167, 19);
+}
